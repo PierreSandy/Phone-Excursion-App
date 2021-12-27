@@ -1,0 +1,37 @@
+body {
+
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+}
+
+#para1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#para2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+#footer-text{
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: flex-end;
+}
