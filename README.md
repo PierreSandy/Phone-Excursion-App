@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is a mock iphone marketing website
 	
 ## Technologies
 Project is created with:
